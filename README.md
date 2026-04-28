@@ -82,7 +82,6 @@ The model is trained on labeled review data and predicts sentiment based on text
 ---
 
 ## 📂 Project Structure
-
 imdb-sentiment-analysis/
 │── dataset/
 │── model/
